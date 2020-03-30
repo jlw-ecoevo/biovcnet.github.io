@@ -187,3 +187,17 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 
 <br>
 **Bio:** I am an Assistant Professor at Molloy College where I teach in the Environmental Sciences. For my PhD, I worked to decipher the biogeochemical roles of microbes in the Cariaco Basin, a permanently anoxic ocean basin in the Caribbean Sea. Since becoming a professor, I have developed a passion for teaching bioinformatics to undergraduate students. I like to mix computational, bench work, and microscopy and to involve students in all aspects of my research!
+
+
+## R. Eric Collins
+
+<img align="left" src="/images/photo_rec.jpg" width="200px" style="padding-right: 15px">
+
+**Twitter:** @rec3141
+
+**[Website](https://cryomics.org)**
+
+**[Google scholar](https://scholar.google.com/citations?user=St9qTsMAAAAJ&hl=en)**
+
+<br>
+**Bio:** I am an Assistant Professor and Canada Research Chair in Arctic Marine Microbial Ecosystem Services at the University of Manitoba in Winnipeg. I work on understanding the diversity, distribution, and function of Arctic marine microbial communities, especially those in frozen environments like sea ice. I am particularly interested in evolutionary questions related to the role of horizontal gene transfer in the adaptation of microbes to extreme environments.
