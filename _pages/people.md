@@ -201,3 +201,19 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 
 <br>
 **Bio:** I am an Assistant Professor and Canada Research Chair in Arctic Marine Microbial Ecosystem Services at the University of Manitoba in Winnipeg. I work on understanding the diversity, distribution, and function of Arctic marine microbial communities, especially those in frozen environments like sea ice. I am particularly interested in evolutionary questions related to the role of horizontal gene transfer in the adaptation of microbes to extreme environments.
+
+
+
+
+## Arkadiy Garber
+
+<img align="left" src="/images/IMG_4433 copy.JPG" width="200px" style="padding-right: 15px">
+
+**Twitter:** @bioinfoark
+
+**[Google scholar](https://scholar.google.com/citations?hl=en&user=SGPloYgAAAAJ)**
+
+<br>
+**Bio:** I am bioinformatician at the University of Montana. My research interests spans from geomicrobiology to bacterial endosymbionts of insect. The current theme of my research includes using a variety of phylogenetic approaches, as well as functional annotation, comparative genomics, and transcriptomics to better understand genomic and cellular adaptations of bacteria as they transition from a free-living to an intra-host lifestyle! I am also very interested in functional annotation more broadly, and currently developing a bioinformatics platform to allow researchers to carry out a more-targetted approach to annotation, using smaller and more-curated datasets that address specific questions
+
+
