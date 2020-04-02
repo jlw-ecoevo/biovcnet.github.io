@@ -224,11 +224,11 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 
 <img align="left" src="/images/ChrisTrivedi.JPG" width="200px" style="padding-right: 15px">
 
-**Twitter:** @ChrisTrivedi
+**Twitter: [@Chris_Trivedi](https://twitter.com/Chris_Trivedi){:target="_blank"}**
 
-**[Website](https://christrivedi.com)**
+**[Website](https://christrivedi.com){:target="_blank"}**
 
-**[Google scholar](https://scholar.google.com/citations?user=YZtzseYAAAAJ&hl=en)**
+**[Google scholar](https://scholar.google.com/citations?user=YZtzseYAAAAJ&hl=en){:target="_blank"}**
 
 <br>
 **Bio:** I am currently working as a postdoctoral scholar in the Interface Geochemistry group of Liane G. Benning at the German Research Centre for Geosciences GFZ in Potsdam, Germany. Part of my research in this group is to understand the role that biology plays on glacier melt dynamics. While we study all manner of microorganisms that live on glaciers, we are particularly interested in snow and ice algae and their impact on changes to glacial albedo and carbon transformation processes. We use a variety of techniques to answer our research questions including targeted amplicon sequencing, metagenomic/metatranscriptomic sequencing, and metabolomics. Our current focus is on glacial ecosystems in Iceland and Greenland.
