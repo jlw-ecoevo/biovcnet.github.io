@@ -18,4 +18,4 @@ Please see [here](https://biovcnet.github.io/_pages/get-involved/) if you'd like
 
 # Topics and Lessons
 
-<img align="center" src="/images/overviewoftopicsandlessons.png" style="padding-right: 15px">
+<img align="center" src="/images/overviewoftopicsandlessons.eps" style="padding-right: 15px">
