@@ -219,3 +219,17 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 **Bio:** I am bioinformatician at the University of Montana. My research interests span from geomicrobiology to bacterial endosymbiosis. My current research involves using a variety of phylogenetic approaches, as well as functional annotation, comparative genomics, and transcriptomics to better understand genomic and cellular adaptations of bacteria as they transition from a free-living to an intracellular lifestyle. I am also very interested in functional annotation more broadly, and currently developing a bioinformatics platform to allow researchers to carry out a more-targetted approach to functional annotation, using smaller and more-curated datasets that address specific questions or pathways (e.g. biofilm formation, motility, iron cycling, magnetosome formation, etc.).
 
 
+
+## Chris Trivedi
+
+<img align="left" src="/images/ChrisTrivedi.JPG" width="200px" style="padding-right: 15px">
+
+**Twitter: [@Chris_Trivedi](https://twitter.com/Chris_Trivedi){:target="_blank"}**
+
+**[Website](https://christrivedi.com){:target="_blank"}**
+
+**[Google scholar](https://scholar.google.com/citations?user=YZtzseYAAAAJ&hl=en){:target="_blank"}**
+
+<br>
+**Bio:** I am currently working as a postdoctoral scholar in the Interface Geochemistry group of Liane G. Benning at the German Research Centre for Geosciences GFZ in Potsdam, Germany. Part of my research in this group is to understand the role that biology plays on glacier melt dynamics. While we study all manner of microorganisms that live on glaciers, we are particularly interested in snow and ice algae and their impact on changes to glacial albedo and carbon transformation processes. We use a variety of techniques to answer our research questions including targeted amplicon sequencing, metagenomic/metatranscriptomic sequencing, and metabolomics. Our current focus is on glacial ecosystems in Iceland and Greenland.
+
