@@ -15,3 +15,7 @@ Welcome to the website for the Bioinformatics Virtual Coordination Network (BioV
 We are in the very early stages of organizing and developing the BVCN. Along with the [wiki](https://github.com/biovcnet/biovcnet.github.io/wiki){:target="_blank}, this site will be growing and changing over the coming weeks.
 
 Please see [here](https://biovcnet.github.io/_pages/get-involved/) if you'd like to be involved by either helping or participating or both!
+
+# Topics and Lessons
+
+<img align="center" src="/images/overviewoftopicsandlessons.png" style="padding-right: 15px">
