@@ -18,4 +18,8 @@ Please see [here](https://biovcnet.github.io/_pages/get-involved/) if you'd like
 
 # Topics and Lessons
 
-<img align="center" src="/images/overviewoftopicsandlessons.svg" style="padding-right: 15px">
+<center>
+<a href="images/BVCN-overview-of-topics-and-lessons-v1.pdf"><img src="images/BVCN-overview-of-topics-and-lessons-v1.svg"></a>
+</center>
+
+<p align="right"><a href="images/BVCN-overview-of-topics-and-lessons-v1.pdf"><font size="3">PDF view</font></a></p>
