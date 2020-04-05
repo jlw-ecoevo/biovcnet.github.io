@@ -16,7 +16,7 @@ List yourself
 
 **Email:** tully.bj@gmail.com
 
-**Twitter:** @phatombugs
+**Twitter:** [@phantomBugs](https://twitter.com/phantomBugs)
 
 **[Website](https://bjtully.github.io/)**
 
