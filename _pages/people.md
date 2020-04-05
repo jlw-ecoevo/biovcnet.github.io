@@ -222,7 +222,7 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 
 ## Chris Trivedi
 
-<img align="left" src="/images/ChrisTrivedi.JPG" width="200px" style="padding-right: 15px">
+<img align="left" src="/images/ChrisTrivedi.jpg" width="200px" style="padding-right: 15px">
 
 **Twitter: [@Chris_Trivedi](https://twitter.com/Chris_Trivedi){:target="_blank"}**
 
