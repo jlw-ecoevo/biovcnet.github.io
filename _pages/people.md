@@ -233,3 +233,16 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 <br>
 **Bio:** I am currently working as a postdoctoral scholar in the Interface Geochemistry group of Liane G. Benning at the German Research Centre for Geosciences GFZ in Potsdam, Germany. Part of my research in this group is to understand the role that biology plays on glacier melt dynamics. While we study all manner of microorganisms that live on glaciers, we are particularly interested in snow and ice algae and their impact on changes to glacial albedo and carbon transformation processes. We use a variety of techniques to answer our research questions including targeted amplicon sequencing, metagenomic/metatranscriptomic sequencing, and metabolomics. Our current focus is on glacial ecosystems in Iceland and Greenland.
 
+
+
+
+## Philip Leftwich
+**Twitter:** [@PhilipLeftwich](https://twitter.com/PhilipLeftwich)
+
+**[Website](https://people.uea.ac.uk/p_leftwich)**
+
+**[Google scholar](https://scholar.google.com/citations?user=5-qU7lkAAAAJ&hl=en)**
+
+**Bio:** I'm a lecturer at the University of East Anglia in Norwich, UK. I teach genetics, molecular biology, microbiology, and data science. My interests are mainly focused in two areas:
+1) The use of genetic engineering, CRISPR, and gene drives for controlling agricultural & disease spreading insect pests.
+2) The characterisation of microbiomes in multiple species of fruit flies, where I use a variety of techniques to find out about the functional and evolutionary relationships between microbes and hosts. 
