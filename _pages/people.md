@@ -249,7 +249,7 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 **Bio:** I'm a lecturer at the University of East Anglia in Norwich, UK. I teach genetics, molecular biology, microbiology, and data science. My research interests are mainly focused on genetics, microbes and pest control! I use genetic engineering, CRISPR, and gene drives to developm new technologies for the control of agricultural & disease spreading insect pests. I also work on the characterisation of microbiomes in multiple species of fruit flies, where I use a variety of techniques to find out about the functional and evolutionary relationships between microbes and hosts. 
 
 
-Lu## is E. Valentin-Alvarado
+Lu## ## E. Valentin-Alvarado
 Em
 <img align="left" src="/images/14_luisvalentin_2.jpg" width="200px" style="padding-right: 15px">
 
