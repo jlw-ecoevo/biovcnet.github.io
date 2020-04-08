@@ -249,15 +249,16 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 **Bio:** I'm a lecturer at the University of East Anglia in Norwich, UK. I teach genetics, molecular biology, microbiology, and data science. My research interests are mainly focused on genetics, microbes and pest control! I use genetic engineering, CRISPR, and gene drives to developm new technologies for the control of agricultural & disease spreading insect pests. I also work on the characterisation of microbiomes in multiple species of fruit flies, where I use a variety of techniques to find out about the functional and evolutionary relationships between microbes and hosts. 
 
 
-Lu## ## E. Valentin-Alvarado
-Em
+## Luis E. Valentin-Alvarado
+
 <img align="left" src="/images/14_luisvalentin_2.jpg" width="200px" style="padding-right: 15px">
 
 **Email: luisva@berkeley.edu**
 
 **Twitter: @Luis_valentin6**
-o**[ogle schoolar: ](tps://scholar.google.com/citations?hl=en&user=y7A6fQEAAAAJ
-I)** 
-**Bio:** am PhD student in the Jill Banfield and Dave Savage groups at UC Berkeley. The current toolkit for human genome editing could be dramatically expanded through the exploration of new CRISPR-Cas and associated proteins that have yet to be characterized, and through the development of enzymatic tools to enable controlled repair of DNA breaks. My PhD thesis aims to advance the science and technology of genome editing by discovering and harnessing new CRISPR-Cas and related systems through a combination of bioinformatics and biochemistr
+
+**[Google scholar](https://scholar.google.com/citations?hl=en&user=y7A6fQEAAAAJI)** 
+
+**Bio:** I am a PhD student in the Jill Banfield and Dave Savage groups at UC Berkeley. The current toolkit for human genome editing could be dramatically expanded through the exploration of new CRISPR-Cas and associated proteins that have yet to be characterized, and through the development of enzymatic tools to enable controlled repair of DNA breaks. My PhD thesis aims to advance the science and technology of genome editing by discovering and harnessing new CRISPR-Cas and related systems through a combination of bioinformatics and biochemistry.
 
 
