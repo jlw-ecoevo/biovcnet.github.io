@@ -261,4 +261,17 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 
 **Bio:** I am a PhD student in the Jill Banfield and Dave Savage groups at UC Berkeley. The current toolkit for human genome editing could be dramatically expanded through the exploration of new CRISPR-Cas and associated proteins that have yet to be characterized, and through the development of enzymatic tools to enable controlled repair of DNA breaks. My PhD thesis aims to advance the science and technology of genome editing by discovering and harnessing new CRISPR-Cas and related systems through a combination of bioinformatics and biochemistry.
 
+## Arianna Krinos
 
+<img align="left" src="/images/ariannakrinos.jpg" width="200px" style="padding-right: 15px">
+
+**Email:** akrinos@mit.edu
+
+**Twitter:** @ariannakrinos
+
+**[Website](https://akrinos.github.io/)**
+
+**[Google Scholar](https://scholar.google.com/citations?user=dguBKzUAAAAJ&hl=en&oi=ao)**
+
+**Bio:** I am a PhD student in Biological Oceanography in the MIT-WHOI Joint Program. I am co-advised by Harriet Alexander and Mick Follows, and use bioinformatics and models to study eukaryotic phytoplankton, with a penchant for coccolithophores and diatoms. I graduated from Virginia Tech with undergraduate degrees in Computer Science, Biological Sciences, and Computational Modeling and Data Analytics with a minor in math, and in the past I have done research in mathematical modeling of environmental time series data, ecological modeling of aquatic ecosystems, and computational approaches to amphibian disease ecology. I am helping with the BVCN mainly through the Reproducibility Challenge and associated tutorials for reproducing bioinformatics workflows. Happy to help with transcriptomics or general software/coding problems.
+!
