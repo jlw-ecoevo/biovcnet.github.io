@@ -262,3 +262,16 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 **Bio:** I am a PhD student in the Jill Banfield and Dave Savage groups at UC Berkeley. The current toolkit for human genome editing could be dramatically expanded through the exploration of new CRISPR-Cas and associated proteins that have yet to be characterized, and through the development of enzymatic tools to enable controlled repair of DNA breaks. My PhD thesis aims to advance the science and technology of genome editing by discovering and harnessing new CRISPR-Cas and related systems through a combination of bioinformatics and biochemistry.
 
 
+## Adelaide Rhodes
+
+<img align="left" src="/images/adelaide_Ski.jpg" style="padding-right: 15px">
+
+**Email:** adelaide.rhodes@gmail.com
+
+**Twitter:** @RareSeas
+
+**[Website](https://www.linkedin.com/in/adelaide-rhodes-ph-d-376b9133/)** 
+
+**[Google Scholar](https://scholar.google.com/citations?user=CNTMRigAAAAJ&hl=en)**
+
+**Bio:** I have a big love of nature and animals.  I started out as a zoologist studying marine copepods and have transitioned into a bioinformatic zoologist working on a wide variety of human health, vector-borne disease and crop science projects.  I have a diversity of clients and interests, my two most recent papers were on innate immunity genes in the stinkbug *Halyomorpha halys* and the long non-coding RNA's in the American beaver *Castor canadensis*.  I am happy to talk to students about their career plans, feel free to contact me.
