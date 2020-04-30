@@ -264,7 +264,7 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 
 ## Adelaide Rhodes
 
-<img align="left" src="/images/adelaide_Ski.jpg" style="padding-right: 15px">
+<img align="left" src="/images/adelaide_Ski.jpg" width="200px" style="padding-right: 15px">
 
 **Email:** adelaide.rhodes@gmail.com
 
