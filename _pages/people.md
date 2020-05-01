@@ -263,6 +263,7 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 
 ## Arianna Krinos
 
+
 <img align="left" src="/images/ariannakrinos.jpg" width="200px" style="padding-right: 15px">
 
 **Email:** akrinos@mit.edu
@@ -274,4 +275,17 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 **[Google Scholar](https://scholar.google.com/citations?user=dguBKzUAAAAJ&hl=en&oi=ao)**
 
 **Bio:** I am a PhD student in Biological Oceanography in the MIT-WHOI Joint Program. I am co-advised by Harriet Alexander and Mick Follows, and use bioinformatics and models to study eukaryotic phytoplankton, with a penchant for coccolithophores and diatoms. I graduated from Virginia Tech with undergraduate degrees in Computer Science, Biological Sciences, and Computational Modeling and Data Analytics with a minor in math, and in the past I have done research in mathematical modeling of environmental time series data, ecological modeling of aquatic ecosystems, and computational approaches to amphibian disease ecology. I am helping with the BVCN mainly through the Reproducibility Challenge and associated tutorials for reproducing bioinformatics workflows. Happy to help with transcriptomics or general software/coding problems.
-!
+
+## Adelaide Rhodes
+
+<img align="left" src="/images/adelaide_Ski.jpg" width="200px" style="padding-right: 15px">
+
+**Email:** adelaide.rhodes@gmail.com
+
+**Twitter:** @RareSeas
+
+**[Website](https://www.linkedin.com/in/adelaide-rhodes-ph-d-376b9133/)** 
+
+**[Google Scholar](https://scholar.google.com/citations?user=CNTMRigAAAAJ&hl=en)**
+
+**Bio:** I have a big love of nature and animals.  I started out as a zoologist studying marine copepods and have transitioned into a bioinformatic zoologist working on a wide variety of human health, vector-borne disease and crop science projects.  I have a diversity of clients and interests, my two most recent papers were on innate immunity genes in the stinkbug *Halyomorpha halys* and the long non-coding RNA's in the American beaver *Castor canadensis*.  I am happy to talk to students about their career plans, feel free to contact me.
