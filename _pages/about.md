@@ -23,3 +23,8 @@ Please see [here](https://biovcnet.github.io/_pages/get-involved/) if you'd like
 </center>
 
 <p align="right"><a href="images/BVCN-overview-of-topics-and-lessons-v1.pdf"><font size="3">PDF view</font></a></p>
+
+
+# BVCN Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=cm5rZTU4Z3AyYXF2dGV1dGZoYWQwdDZnM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23AD1457&amp;showDate=1&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
