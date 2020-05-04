@@ -4,7 +4,7 @@ title: "People"
 redirect_from: 
   - /people/
   - /people.html
- sidebar:
+sidebar:
   nav: "main"
 ---
 
