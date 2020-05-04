@@ -4,6 +4,8 @@ title: "Code of Conduct"
 redirect_from: 
   - /code-of-conduct/
   - /code-of-conduct.html
+sidebar:
+  nav: "main"
 ---
 
 # Bioinformatics Virtual Coordination Network Code of Conduct

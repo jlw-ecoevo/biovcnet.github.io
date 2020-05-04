@@ -4,6 +4,8 @@ title: "People"
 redirect_from: 
   - /people/
   - /people.html
+sidebar:
+  nav: "main"
 ---
 
 # Project Lead/Coordinating Committee
