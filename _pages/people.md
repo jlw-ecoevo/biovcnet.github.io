@@ -40,10 +40,7 @@ List yourself
 <br>
 **Bio:** I’m a microbial ecologist/bioinformatician at NASA’s Ames Research Center in northern California, USA. I get to work in all kinds of different systems ranging from the bottoms of our oceans up to the International Space Station 👽. Having [gone through it myself](https://astrobiomike.github.io/about/){:target="_blank"}, I very much enjoy trying to help folks get through the initial steep learning curve that lots of us face when we start getting into bioinformatics. In addition to regularly helping to organize and teach at bioinformatics workshops such as [STAMPS](https://mblstamps.github.io/){:target="_blank"} and [ANGUS](https://angus.readthedocs.io/en/2019/){:target="_blank"}, I develop and maintain [Happy Belly Bioinformatics](https://astrobiomike.github.io/){:target="_blank"}, a site that aims to be a useful resource for biologists who are new to bioinformatics 🙂  
 
-# Instructors
-
-Please add yourself. See example(s) below.
-
+# Active Instructors
 
 ## Jake L. Weissman
 
@@ -59,29 +56,6 @@ Please add yourself. See example(s) below.
 
 **Bio:** The battle between microbes and their viruses is ancient and ongoing. Over billions of years of coevolution, microbes have evolved a great diversity of strategies to protect themselves against viral infections. What drives selection favoring a particular antiviral defense strategy? What new defense systems are still waiting to be discovered? How do defense systems coevolve with pathogens over time, and how does this coevolution feed back into the dynamics of host-virus interactions? The central theme of my previous and ongoing work is the application of tools from the fields of machine learning and complex systems science, alongside more traditional approaches from population genetics and theoretical ecology, to understand the ecology and evolution of antiviral defense strategies.
 
-## Elizabeth McDaniel
-<img src="https://avatars1.githubusercontent.com/u/18299362?s=460&u=2759d5e6ec166f8f71fb0b1521324fe813d049a2&v=4" align="left" width="200" style="padding-right: 15px">
-
-**Email:** elizabethmcd93@gmail.com
-
-**Twitter:** @lizilla93
-
-**[Website](elizabethmcd93.github.io)**
-
-**Bio:** I am a PhD student in the Microbiology Doctoral Training Program in Dr. Katherine McMahon's lab at the University of Wisconsin - Madison. I use a combination of enrichment culture techniques and integrated genome-resolved metagenomics to investigate bacterial population dynamics of engineered wastewater systems. I am passionate about helping people solve their analytical challenges as it relates to their research. I am a certified Carpentries instructor and a co-chair of the Computational Biology, Ecology, and Evolution [(ComBEE)](https://combee-uw-madison.github.io/studyGroup/) study group on the UW-Madison campus.
-
-## Morgan V. Evans
-<img src="https://avatars2.githubusercontent.com/u/51716739?s=460&u=952436b987be5903627bc69d88a77fdd36ec1efa&v=4" align="left" width="200" style="padding-right: 15px">
-
-**Email:** evans.2408@osu.edu
-
-**Twitter:** @morgvevans
-
-**[Website](https://github.com/morgvevans)**
-
-**[Google Scholar](https://scholar.google.com/citations?user=vVUCZw0AAAAJ&hl=en&authuser=1)**
-
-**Bio:** I am postdoctoral researcher at The Ohio State University in the Colleges of Public Health & Veterinary Preventative Medicine. My current research uses -omic tools to investigate strain level overlap between humans, animals, and the environment, as well as to reconstruct chemical/xenobiotic microbial pathways in the human and animal gut as it relates to health & disease. My PhD work focused on microbial xenobiotic metabolisms in hydraulically fractured oil and gas systems. I am eager to help people who don't have coding or bioinformatics backgrounds learn their way around the command line for their work, particularly for metagenomics and 16S rRNA sequencing analysis.
 
 ## Joy Buongiorno
 
@@ -121,19 +95,6 @@ Please add yourself. See example(s) below.
 
 **Bio:** I am an Assistant Scientist in the Biology Department at the Woods Hole Oceanographic Institution interested in bioinformatics and microbes in the ocean. My work focuses on characterizing the the interplay of physiological ecology and diversity in the ocean with a focus on eukaryotic plankton. Much of my research has leveraged meta-omic data to derive insights into the diversity and function of these ecosystems.
 
-
-
-## Daan Speth
-
-<img align="left" src="/images/DRS_photo.jpg" width="200px" style="padding-right: 15px">
-
-**Email:** dspeth@caltech.edu
-
-**Twitter:** @daanspeth
-
-**[Google Scholar](https://scholar.google.com/citations?user=1xoXn04AAAAJ&hl=en)**
-
-**Bio:** I'm microbial ecologist/bioinformatician/geobiologist interested in the way the uncultured microbial majority makes a living, and influences life and the planet around it. I apply a mix of bioinformatics, field science, and labwork to try and improve our understanding of microbial communities. I'm currently a postdoc in the lab of Prof. Victoria Orphan at Caltech, where I work on the microbes living at a hydrothermal vent system in the Gulf of California, and those in Mono Lake. In addition, I try to think of ways to leverage the ever-increasing data provided by environmental sequencing to further increase our knowledge of the microbial world.
 
 
 ## Alexis Marshall
@@ -291,3 +252,72 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 **[Google Scholar](https://scholar.google.com/citations?user=CNTMRigAAAAJ&hl=en)**
 
 **Bio:** I have a big love of nature and animals.  I started out as a zoologist studying marine copepods and have transitioned into a bioinformatic zoologist working on a wide variety of human health, vector-borne disease and crop science projects.  I have a diversity of clients and interests, my two most recent papers were on innate immunity genes in the stinkbug *Halyomorpha halys* and the long non-coding RNA's in the American beaver *Castor canadensis*.  I am happy to talk to students about their career plans, feel free to contact me.
+
+
+## Jacob Cram
+
+<img align="left" src="/images/jcram.jpg" width="200px" style="padding-right: 15px">
+
+**Email:** jcram@umces.edu
+
+**Twitter:** @JacobACram
+
+**[Website](https://www.umces.edu/hpl/cram-lab)** 
+
+**[Google Scholar](https://scholar.google.com/citations?user=oytbDhYAAAAJ&hl=en&oi=ao)**
+
+**Bio:** I am a microbial ecologist whose research focuses on entire microbial communities. I am interested both in which organisms are present and in how those those organisms affect and in turn are shaped by their environment. My group observes micro-organisms in their native environments through molecular biology techniques and microscopy. We also use statistical and mechanistic models to integrate data and better understand microorganisms in their environments, as well as perform experiments to see how entire communities respond to perturbations.
+
+## Maria Pachiadaki 
+
+<img align="left" src="/images/mpachiadaki.jpg" width="200px" style="padding-right: 15px">
+
+**Email:** mpachiadaki@whoi.edu
+
+**Twitter:** @microbiaki
+
+**[Google Scholar](https://scholar.google.com/citations?user=cM5nYT4AAAAJ&hl=en&authuser=1)**
+
+**Bio:** I want to unveil the mysteries of the microbial life of the aphotic ocean realm. I am particularly interested in the identity, function and activity of the dark ocean microorganisms - from the community to the single cell level - and their effects on global ecosystem processes. I also work on the development of technology for in situ studies in marine microbial ecology.
+
+---
+
+
+# Inactive Instructors
+
+## Daan Speth
+
+<img align="left" src="/images/DRS_photo.jpg" width="200px" style="padding-right: 15px">
+
+**Email:** dspeth@caltech.edu
+
+**Twitter:** @daanspeth
+
+**[Google Scholar](https://scholar.google.com/citations?user=1xoXn04AAAAJ&hl=en)**
+
+**Bio:** I'm microbial ecologist/bioinformatician/geobiologist interested in the way the uncultured microbial majority makes a living, and influences life and the planet around it. I apply a mix of bioinformatics, field science, and labwork to try and improve our understanding of microbial communities. I'm currently a postdoc in the lab of Prof. Victoria Orphan at Caltech, where I work on the microbes living at a hydrothermal vent system in the Gulf of California, and those in Mono Lake. In addition, I try to think of ways to leverage the ever-increasing data provided by environmental sequencing to further increase our knowledge of the microbial world.
+
+
+## Elizabeth McDaniel
+<img src="https://avatars1.githubusercontent.com/u/18299362?s=460&u=2759d5e6ec166f8f71fb0b1521324fe813d049a2&v=4" align="left" width="200" style="padding-right: 15px">
+
+**Email:** elizabethmcd93@gmail.com
+
+**Twitter:** @lizilla93
+
+**[Website](elizabethmcd93.github.io)**
+
+**Bio:** I am a PhD student in the Microbiology Doctoral Training Program in Dr. Katherine McMahon's lab at the University of Wisconsin - Madison. I use a combination of enrichment culture techniques and integrated genome-resolved metagenomics to investigate bacterial population dynamics of engineered wastewater systems. I am passionate about helping people solve their analytical challenges as it relates to their research. I am a certified Carpentries instructor and a co-chair of the Computational Biology, Ecology, and Evolution [(ComBEE)](https://combee-uw-madison.github.io/studyGroup/) study group on the UW-Madison campus.
+
+## Morgan V. Evans
+<img src="https://avatars2.githubusercontent.com/u/51716739?s=460&u=952436b987be5903627bc69d88a77fdd36ec1efa&v=4" align="left" width="200" style="padding-right: 15px">
+
+**Email:** evans.2408@osu.edu
+
+**Twitter:** @morgvevans
+
+**[Website](https://github.com/morgvevans)**
+
+**[Google Scholar](https://scholar.google.com/citations?user=vVUCZw0AAAAJ&hl=en&authuser=1)**
+
+**Bio:** I am postdoctoral researcher at The Ohio State University in the Colleges of Public Health & Veterinary Preventative Medicine. My current research uses -omic tools to investigate strain level overlap between humans, animals, and the environment, as well as to reconstruct chemical/xenobiotic microbial pathways in the human and animal gut as it relates to health & disease. My PhD work focused on microbial xenobiotic metabolisms in hydraulically fractured oil and gas systems. I am eager to help people who don't have coding or bioinformatics backgrounds learn their way around the command line for their work, particularly for metagenomics and 16S rRNA sequencing analysis.
