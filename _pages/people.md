@@ -10,8 +10,6 @@ sidebar:
 
 # Project Lead/Coordinating Committee
 
-List yourself
-
 ## Ben Tully
 
 <img align="left" src="/images/benjtully.jpg" width="200px" style="padding-right: 15px">
