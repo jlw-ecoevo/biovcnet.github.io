@@ -10,17 +10,15 @@ sidebar:
   nav: "main"
 ---
 
-Welcome to the website for the Bioinformatics Virtual Coordination Network (BioVCN). Many research laboratories are currently shutting down due to concerns about the COVID-19 pandemic. This leaves academics at all levels in a difficult position - where research in the lab [may not resume for many months](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/?fbclid=IwAR2vwiQNBs_lisviJG3d2VAl-etCEuVsMCGEV09YEilvrwTL1Zwv0Qd34Dg){:target="_blank}. We are a group of bioinformaticians and computational biologists committed to helping wet-lab biologists pick up some computational skills/begin computational projects during this global crisis. 
+Welcome to the website for the Bioinformatics Virtual Coordination Network (BVCN). Many research laboratories are currently shutting down due to concerns about the COVID-19 pandemic. This leaves academics at all levels in a difficult position - where research in the lab [may not resume for many months](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/?fbclid=IwAR2vwiQNBs_lisviJG3d2VAl-etCEuVsMCGEV09YEilvrwTL1Zwv0Qd34Dg){:target="_blank}. We are a group of bioinformaticians and computational biologists committed to helping wet-lab biologists pick up some computational skills/begin computational projects during this global crisis. 
 
 Please see [here](https://biovcnet.github.io/_pages/get-involved/) if you'd like to be involved by either helping or participating or both!
 
-# Topics and Lessons
+# BVCN Organization
 
-<center>
-<a href="images/BVCN-overview-of-topics-and-lessons-v1.pdf"><img src="images/BVCN-overview-of-topics-and-lessons-v1.svg"></a>
-</center>
-
-<p align="right"><a href="images/BVCN-overview-of-topics-and-lessons-v1.pdf"><font size="3">PDF view</font></a></p>
+### This webpage functions as the central hub for the Bioinformatics Virtual Coordination Network. To get started with the various lessions and tutorials created by our instructors, you should visit our [Wiki tab](https://github.com/biovcnet/biovcnet.github.io/wiki). From here you can access the 10 topics that are currently underdevelopment by the [BVCN Volunteer Instructors](https://biovcnet.github.io/people.html). If you'd like to participate in the BVCN - ask questions, meet other scientists at your experience level, participate in discussion - you can receive an invitation to our Slack channel by completing this [survey](https://forms.gle/bwe3pmAF2YppUT5d7).
+---
+<img align="center" src="/images/Network-Organization-Overview-square.jpg" width="1200px" style="padding-right: 15px">
 
 
 # BVCN Calendar
