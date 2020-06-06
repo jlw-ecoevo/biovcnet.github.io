@@ -237,20 +237,6 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 
 **Bio:** I am a PhD student in Biological Oceanography in the MIT-WHOI Joint Program. I am co-advised by Harriet Alexander and Mick Follows, and use bioinformatics and models to study eukaryotic phytoplankton, with a penchant for coccolithophores and diatoms. I graduated from Virginia Tech with undergraduate degrees in Computer Science, Biological Sciences, and Computational Modeling and Data Analytics with a minor in math, and in the past I have done research in mathematical modeling of environmental time series data, ecological modeling of aquatic ecosystems, and computational approaches to amphibian disease ecology. I am helping with the BVCN mainly through the Reproducibility Challenge and associated tutorials for reproducing bioinformatics workflows. Happy to help with transcriptomics or general software/coding problems.
 
-## Adelaide Rhodes
-
-<img align="left" src="/images/adelaide_Ski.jpg" width="200px" style="padding-right: 15px">
-
-**Email:** adelaide.rhodes@gmail.com
-
-**Twitter:** @RareSeas
-
-**[Website](https://www.linkedin.com/in/adelaide-rhodes-ph-d-376b9133/)** 
-
-**[Google Scholar](https://scholar.google.com/citations?user=CNTMRigAAAAJ&hl=en)**
-
-**Bio:** I have a big love of nature and animals.  I started out as a zoologist studying marine copepods and have transitioned into a bioinformatic zoologist working on a wide variety of human health, vector-borne disease and crop science projects.  I have a diversity of clients and interests, my two most recent papers were on innate immunity genes in the stinkbug *Halyomorpha halys* and the long non-coding RNA's in the American beaver *Castor canadensis*.  I am happy to talk to students about their career plans, feel free to contact me.
-
 
 ## Jacob Cram
 
@@ -278,10 +264,6 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 
 **Bio:** I want to unveil the mysteries of the microbial life of the aphotic ocean realm. I am particularly interested in the identity, function and activity of the dark ocean microorganisms - from the community to the single cell level - and their effects on global ecosystem processes. I also work on the development of technology for in situ studies in marine microbial ecology.
 
----
-
-
-# Inactive Instructors
 
 ## Daan Speth
 
@@ -294,6 +276,26 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 **[Google Scholar](https://scholar.google.com/citations?user=1xoXn04AAAAJ&hl=en)**
 
 **Bio:** I'm microbial ecologist/bioinformatician/geobiologist interested in the way the uncultured microbial majority makes a living, and influences life and the planet around it. I apply a mix of bioinformatics, field science, and labwork to try and improve our understanding of microbial communities. I'm currently a postdoc in the lab of Prof. Victoria Orphan at Caltech, where I work on the microbes living at a hydrothermal vent system in the Gulf of California, and those in Mono Lake. In addition, I try to think of ways to leverage the ever-increasing data provided by environmental sequencing to further increase our knowledge of the microbial world.
+
+
+---
+
+
+# Inactive Instructors
+
+## Adelaide Rhodes
+
+<img align="left" src="/images/adelaide_Ski.jpg" width="200px" style="padding-right: 15px">
+
+**Email:** adelaide.rhodes@gmail.com
+
+**Twitter:** @RareSeas
+
+**[Website](https://www.linkedin.com/in/adelaide-rhodes-ph-d-376b9133/)** 
+
+**[Google Scholar](https://scholar.google.com/citations?user=CNTMRigAAAAJ&hl=en)**
+
+**Bio:** I have a big love of nature and animals.  I started out as a zoologist studying marine copepods and have transitioned into a bioinformatic zoologist working on a wide variety of human health, vector-borne disease and crop science projects.  I have a diversity of clients and interests, my two most recent papers were on innate immunity genes in the stinkbug *Halyomorpha halys* and the long non-coding RNA's in the American beaver *Castor canadensis*.  I am happy to talk to students about their career plans, feel free to contact me.
 
 
 ## Elizabeth McDaniel
