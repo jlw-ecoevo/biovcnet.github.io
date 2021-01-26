@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "The Bioinformatics Virtual Coordination Network presents:"
 redirect_from: 
   - /conference-2021/
   - /conference-2021.html
@@ -7,7 +8,6 @@ sidebar:
   nav: "main"
 ---
 
-# The Bioinformatics Virtual Coordination Network presents:
 # Holistic Bioinformatic Approaches used in Microbiome Research
  A step-by-step open access conference showcasing state-of-the-art bioinformatics pipelines within microbiome research
  
