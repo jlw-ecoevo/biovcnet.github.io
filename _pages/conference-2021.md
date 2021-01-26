@@ -76,7 +76,7 @@ Nominees with be assessed using a rubric format to identify individuals who woul
 * options for community engagement
 * diversity of speakers
 
-Nominees will be short listed. At which point, nominees will be asked to provide a brief CV and a 2-3 minute video pitching their talk/research. These videos will be used a future advertisement for the conference.
+Nominees will be short listed. At which point, nominees will be asked to provide a brief CV and a 2-3 minute video pitching their talk/research. These videos will be used as a future advertisement for the conference.
 
 
 # Sponsors
