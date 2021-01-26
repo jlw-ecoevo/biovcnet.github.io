@@ -36,7 +36,7 @@ More details to come, including registration form.
 ## Speaker details
 
 #### Speaker attributes
-- Early career researcher (graduate, postdoc, or pre-tenure faculty)
+- Early career researcher (graduate students, postdoc, or pre-tenure faculty)
 - Have a published record of bioinformatic centric research (preprints by June 2021 accepted) 
 - Committed to open science, data, and protocols 
 - Flexible schedule to work with organizing committee to make presentations accessible to all
