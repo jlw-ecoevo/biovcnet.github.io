@@ -17,7 +17,10 @@ The Bioinformatics Virtual Coordination Network (BVCN) is committed to reducing 
 # [Speaker nominations]() - open application 28 January - 15 February 2021 11:59PM US PST
 
 ## Conference format
-Day 1-3: Speaker presentations (7-9 June 2021)
+
+The virtual conference will span 5 days, with 2-3 hours of activity each day.
+
+Day 1-3: 2 Speaker presentations each day (7-9 June 2021)
 
 Day 4: Speaker Q&A Panels (10 June 2021)
 
@@ -31,7 +34,8 @@ More details to come, including registration form.
 
 [Nomination form]()
 
-**Self-nominations are accepted and encouraged!! Do not convince yourself not to apply because one or more of these categories are not a perfect fit!**
+**Self-nominations are accepted and encouraged!!** 
+**Do not convince yourself not to apply because one or more of the categories below are not a perfect fit!**
 
 ## Speaker details
 
@@ -81,4 +85,5 @@ Nominees will be short listed. At which point, nominees will be asked to provide
 
 # Sponsors
 
-This event was funded in full by an grant from Code for Science & Society, made possible by grant number GBMF8449 from the Gordon and Betty Moore Foundation
+This event was funded in full by an grant from Code for Science & Society.
+The BVCN was made possible by grant number GBMF8449 from the Gordon and Betty Moore Foundation
